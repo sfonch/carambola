@@ -1,0 +1,10 @@
+[package]
+name = "carambola"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+crossterm = "0.29.0"
+evdev = "0.13.2"
+image = "0.25.10"
+linuxfb = "0.3.1"
